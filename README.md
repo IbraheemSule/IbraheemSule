@@ -37,6 +37,8 @@ I am a Senior Business Intelligence Developer with 8+ years of experience transf
 
 An interactive Power BI solution for analyzing sales, orders, budgets, product trends, and salesperson performance.
 
+[![Power BI Sales Dashboard](https://github.com/IbraheemSule/power-bi-sales-budget-dashboard/blob/main/images/sales-overview.png?raw=true)](https://github.com/IbraheemSule/power-bi-sales-budget-dashboard)
+
 [View the Power BI Project](https://github.com/IbraheemSule/power-bi-sales-budget-dashboard)
 
 ## Career Highlights
