@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Ibraheem Sule 👋
 
-<!--
-**IbraheemSule/IbraheemSule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Senior Business Intelligence Developer | Power BI Developer
 
-Here are some ideas to get you started:
+I am a Senior Business Intelligence Developer with 8+ years of experience transforming complex data into actionable business insights. I specialize in designing scalable data models, interactive dashboards, executive reports, and enterprise analytics solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 📊 Experienced in Power BI development, administration, and data visualization
+- 🧮 Advanced knowledge of DAX, Power Query, SQL, and data modeling
+- ☁️ Experience with Microsoft Fabric, Azure Synapse, Azure Data Factory, and Databricks
+- 🏥 Background supporting healthcare, financial services, and enterprise reporting
+- 🔍 Focused on dashboard performance, data quality, governance, and business insights
+- 💼 Open to remote Senior BI Developer, Power BI Developer, and BI Analyst opportunities
+
+## Technical Skills
+
+- **Business Intelligence:** Power BI Desktop, Power BI Service, Paginated Reports, and SSRS
+- **Data Analysis:** DAX, Power Query, SQL, T-SQL, Python, and Excel
+- **Data Platforms:** SQL Server, Snowflake, Microsoft Fabric, and Azure SQL
+- **Cloud and Engineering:** Azure Synapse, Azure Data Factory, ADLS, and Databricks
+- **Data Modeling:** Star Schema, Snowflake Schema, Semantic Models, and Tabular Models
+- **Development:** Git, GitHub, Azure DevOps, Agile, and Scrum
+- **Security and Governance:** Row-Level Security, Data Governance, and Workspace Management
+
+## Featured Project
+
+### Power BI Sales & Budget Performance Dashboard
+
+An interactive Power BI solution for analyzing sales, orders, budgets, product trends, and salesperson performance.
+
+[View the Power BI Project](https://github.com/IbraheemSule/power-bi-sales-budget-dashboard)
+
+## Career Highlights
+
+- Developed and supported hundreds of enterprise dashboards and reports
+- Improved Power BI, DAX, and SQL performance by up to 55%
+- Automated reporting processes and reduced manual effort by approximately 40%
+- Worked with datasets containing millions of records
+- Supported business users, executives, and cross-functional stakeholders
+- Led BI development, testing, deployment, documentation, and production support
+
+## Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/ibraheemsule/)
+- [Email Me](mailto:Ibraheemsule23@gmail.com)
