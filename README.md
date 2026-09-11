@@ -1,25 +1,36 @@
 # Ibraheem Sule
-### Senior Business Intelligence Developer | Power BI · Microsoft Fabric · Enterprise Analytics
+### Senior Business Intelligence Developer
 
-📍 Washington DC–Baltimore Area &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/ibraheemsule/) &nbsp;|&nbsp; [Email](mailto:Ibraheemsule23@gmail.com)
+**Power BI | Microsoft Fabric | Azure | SQL | Enterprise Analytics**
+
+📍 Washington DC-Baltimore Area &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/ibraheemsule/) &nbsp;|&nbsp; [Email](mailto:Ibraheemsule23@gmail.com)
 
 ---
 
 ## Summary
 
-Senior Business Intelligence Developer with 8+ years of experience designing enterprise-grade data models, dashboards, and reporting solutions that help organizations make faster, more confident decisions. Skilled across the full BI lifecycle — from data engineering and modeling through visualization, governance, and production support — with domain experience in healthcare and financial services. Currently delivering enterprise BI solutions at **Tenet Healthcare**.
+Senior Business Intelligence Developer with 8+ years of experience building enterprise data models, dashboards, and reporting solutions that support executive and operational decision-making. Proven track record improving report performance, automating manual reporting processes, and delivering analytics at scale across healthcare and financial services organizations. Currently delivering enterprise BI solutions at **Tenet Healthcare**.
 
-Open to Senior BI Developer, Power BI Developer, and BI/Analytics Engineer opportunities (remote or hybrid).
+Open to Senior BI Developer, Power BI Developer, and Analytics Engineer roles, remote or hybrid.
 
 ---
 
 ## Core Expertise
 
-- **BI Development & Visualization** — Power BI Desktop, Power BI Service, Paginated Reports, SSRS, dashboard UX and performance optimization
-- **Data Modeling** — Star schema, snowflake schema, semantic models, tabular models, DAX, Power Query (M)
-- **Data Engineering & Platforms** — SQL Server, T-SQL, Snowflake, Microsoft Fabric, Azure SQL, Azure Synapse, Azure Data Factory, ADLS, Databricks
-- **Governance & Administration** — Row-level security, workspace management, data quality, access governance
-- **Delivery & Collaboration** — Agile/Scrum, Git, GitHub, Azure DevOps, stakeholder and executive reporting
+**BI Development & Visualization**
+Power BI Desktop, Power BI Service, Paginated Reports, SSRS, dashboard performance and UX optimization
+
+**Data Modeling**
+Star schema, snowflake schema, semantic models, tabular models, DAX, Power Query (M)
+
+**Data Engineering & Platforms**
+SQL Server, T-SQL, Snowflake, Microsoft Fabric, Azure SQL, Azure Synapse, Azure Data Factory, ADLS, Databricks
+
+**Governance & Administration**
+Row-level security, workspace management, data quality, access governance
+
+**Delivery & Collaboration**
+Agile, Scrum, Git, GitHub, Azure DevOps, executive and cross-functional stakeholder reporting
 
 ---
 
@@ -49,29 +60,41 @@ Open to Senior BI Developer, Power BI Developer, and BI/Analytics Engineer oppor
 
 ## Impact Highlights
 
-- 📈 Improved Power BI, DAX, and SQL query performance by up to **55%** across enterprise reporting solutions
-- ⚙️ Automated recurring reporting workflows, cutting manual effort by approximately **40%**
-- 🗂️ Designed and maintained BI solutions on datasets with **millions of records**
-- 🏢 Developed and supported hundreds of enterprise dashboards and reports for executives and cross-functional teams
-- 🏥 Delivered analytics solutions supporting healthcare operations and financial services reporting
-- 🔄 Owned the full BI delivery lifecycle: requirements, development, testing, deployment, documentation, and production support
+📈 **Performance**: Improved Power BI, DAX, and SQL query performance by up to 55% across enterprise reporting solutions
+
+⚙️ **Automation**: Automated recurring reporting workflows, cutting manual effort by approximately 40%
+
+🗂️ **Scale**: Designed and maintained BI solutions on datasets with millions of records
+
+🏢 **Reach**: Developed and supported hundreds of enterprise dashboards and reports for executives and cross-functional teams
+
+🏥 **Domain Impact**: Delivered analytics solutions supporting healthcare operations and financial services reporting
+
+🔄 **Ownership**: Led the full BI delivery lifecycle, including requirements, development, testing, deployment, documentation, and production support
 
 ---
 
 ## Featured Project
 
 ### Power BI Sales & Budget Performance Dashboard
+
 An interactive Power BI solution for analyzing sales, orders, budgets, product trends, and salesperson performance across the business.
+
+**Problem**: Leadership lacked a single, reliable view of sales performance against budget, making it hard to spot trends or underperforming segments in time to act.
+
+**Approach**: Built a centralized data model with automated refreshes, DAX measures for budget variance, and drill-through reporting by product and salesperson.
+
+**Outcome**: Gave stakeholders a self-service view of performance, reducing time spent compiling manual sales reports.
 
 [![Power BI Sales Dashboard](https://github.com/IbraheemSule/power-bi-sales-budget-dashboard/blob/main/images/sales-overview.png?raw=true)](https://github.com/IbraheemSule/power-bi-sales-budget-dashboard)
 
-**[View Project →](https://github.com/IbraheemSule/power-bi-sales-budget-dashboard)**
+**[View Project](https://github.com/IbraheemSule/power-bi-sales-budget-dashboard)**
 
 ---
 
 ## Let's Connect
 
-I'm always open to conversations about Business Intelligence, data strategy, and analytics engineering.
+Open to conversations about Business Intelligence, data strategy, and analytics engineering.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ibraheemsule/)
-- 📧 [Ibraheemsule23@gmail.com](mailto:Ibraheemsule23@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/ibraheemsule/)
+📧 [Ibraheemsule23@gmail.com](mailto:Ibraheemsule23@gmail.com)
