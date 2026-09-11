@@ -13,6 +13,8 @@ Senior Business Intelligence Developer with 8+ years of experience building ente
 
 Open to Senior BI Developer, Power BI Developer, and Analytics Engineer roles, remote or hybrid.
 
+🔭 **Currently exploring**: Deepening expertise in Microsoft Fabric and AI-assisted analytics with Copilot in Power BI, alongside advanced data pipeline design in Azure Data Factory.
+
 ---
 
 ## Core Expertise
