@@ -9,7 +9,7 @@
 
 ## Summary
 
-Senior Business Intelligence Developer with 8+ years of experience building enterprise data models, dashboards, and reporting solutions that support executive and operational decision-making. Proven track record improving report performance, automating manual reporting processes, and delivering analytics at scale across healthcare and financial services organizations. Currently delivering enterprise BI solutions at **Tenet Healthcare**.
+Senior Business Intelligence Developer with 9+ years of experience building enterprise data models, dashboards, and reporting solutions that support executive and operational decision-making. Proven track record improving report performance, automating manual reporting processes, and delivering analytics at scale across healthcare and financial services organizations. Currently delivering enterprise BI solutions at **Tenet Healthcare**.
 
 Open to Senior BI Developer, Power BI Developer, and Analytics Engineer roles, remote or hybrid.
 
